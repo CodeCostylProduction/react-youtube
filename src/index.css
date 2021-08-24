@@ -28,3 +28,9 @@ border-radius: 15%;
 .done {
   text-decoration: line-through;
 }
+
+.no_todos {
+  text-align: left;
+  font-size: 16pt;
+
+}
